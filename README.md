@@ -59,6 +59,3 @@
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhavi-Tiwari040406&color=ffb7c5&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
