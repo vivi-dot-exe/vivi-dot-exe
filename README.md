@@ -64,3 +64,16 @@ const vivi = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivi-dot-exe&theme=nord&background=1e222a&border=4c566a&stroke=94baac&ring=94baac&fire=94baac&currStreakLabel=94baac" alt="GitHub Streak" />
 </div>
+
+---
+
+## Connect & Contact
+
+<div align="center">
+
+  <!-- PINK FLOWER LINKEDIN BUTTON -->
+  <a href="https://www.linkedin.com/in/vaibhavi-tiwari-28061a329" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-%F0%9F%8C%B8-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="Connect with me on LinkedIn" />
+  </a>
+
+</div>
