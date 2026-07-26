@@ -21,27 +21,34 @@ const vivi = {
 };
 ```
 
-
 ---
 
 ## Tech Stack
 
 **Languages & Data Science**
 <p>
-  <img src="https://img.shields.io/badge/Python-778DA9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-94BAAC?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-B8C092?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-C5D3E8?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-8E9AAF?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-D6C7B2?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-A2D2FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-FFAFCC?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-CDB4DB?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-BDE0FE?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFC8DD?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-CDB4DB?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-A2D2FF?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-FFAFCC?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-BDE0FE?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-CDB4DB?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-FFC8DD?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 **Tools & Environment**
 <p>
-  <img src="https://img.shields.io/badge/Git-A3B18A?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-588157?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_CLI-4A5759?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-94BAAC?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-A2D2FF?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-FFC8DD?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FFAFCC?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-CDB4DB?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-BDE0FE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_CLI-A2D2FF?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-CDB4DB?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
