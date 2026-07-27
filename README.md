@@ -27,28 +27,28 @@ const vivi = {
 
 **Languages & Data Science**
 <p>
-  <img src="https://img.shields.io/badge/Python-A2D2FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-FFAFCC?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-CDB4DB?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-BDE0FE?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-FFC8DD?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-CDB4DB?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-A2D2FF?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-FFAFCC?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-BDE0FE?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-CDB4DB?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FFC8DD?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2B4C7E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-D81B60?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-6A1B9A?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-1565C0?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-C2185B?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-4A148C?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-1E88E5?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-AD1457?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0D47A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-7B1FA2?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-880E4F?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 **Tools & Environment**
 <p>
-  <img src="https://img.shields.io/badge/Azure-A2D2FF?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-FFC8DD?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FFAFCC?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-CDB4DB?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-BDE0FE?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_CLI-A2D2FF?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-CDB4DB?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-1565C0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-880E4F?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-D81B60?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-6A1B9A?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_CLI-2B4C7E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-4A148C?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -65,6 +65,7 @@ const vivi = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivi-dot-exe&theme=nord&background=1e222a&border=4c566a&stroke=94baac&ring=94baac&fire=94baac&currStreakLabel=94baac" alt="GitHub Streak" />
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/vivi-dot-exe/vivi-dot-exe/output/github-snake-dark.svg)
 ---
 
 ## Connect & Contact
