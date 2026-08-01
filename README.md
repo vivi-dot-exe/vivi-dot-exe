@@ -4,6 +4,12 @@
   <p><b>coder & creator</b> | building intelligent systems & agentic workflows.</p>
 
   <p><i>compiling code, making content, black coffee and shopping</i></p>
+  <br />
+
+  <!-- RETRO PORTFOLIO BUTTON -->
+  <a href="https://mycreativeportfolio-vert.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20MY_Creative_PORTFOLIO-START_GAME-ff1493?style=for-the-badge&logoColor=white" height="45" alt="Play Portfolio" />
+  </a>
 
 </div>
 
@@ -65,16 +71,8 @@ const vivi = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivi-dot-exe&theme=nord&background=1e222a&border=4c566a&stroke=94baac&ring=94baac&fire=94baac&currStreakLabel=94baac" alt="GitHub Streak" />
 </div>
 
+
+## Snake Game 
 ![Snake animation](https://raw.githubusercontent.com/vivi-dot-exe/vivi-dot-exe/output/github-snake-dark.svg)
 ---
 
-## Connect & Contact
-
-<div align="center">
-
-  <!-- PINK FLOWER LINKEDIN BUTTON -->
-  <a href="https://www.linkedin.com/in/vaibhavi-tiwari-28061a329" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-%F0%9F%8C%B8-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="Connect with me on LinkedIn" />
-  </a>
-
-</div>
