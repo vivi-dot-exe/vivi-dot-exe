@@ -62,13 +62,19 @@ const vivi = {
 ## GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vivi-dot-exe&show_icons=true&theme=nord&bg_color=1e222a&title_color=94baac&icon_color=94baac&text_color=d8dee9&border_color=4c566a" alt="GitHub Stats" />
+  <!-- Core Metrics Badges in Bright Pink -->
+  <a href="https://github.com/vivi-dot-exe">
+    <img src="https://img.shields.io/badge/Total_Stars-0-ff1493?style=for-the-badge&logo=github&logoColor=white&labelColor=1e222a" alt="Stars" />
+    <img src="https://img.shields.io/badge/Total_Commits-52-ff69b4?style=for-the-badge&logo=git&logoColor=white&labelColor=1e222a" alt="Commits" />
+    <img src="https://img.shields.io/badge/Total_PRs-0-ff1493?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=1e222a" alt="PRs" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivi-dot-exe&theme=nord&background=1e222a&border=4c566a&stroke=94baac&ring=94baac&fire=94baac&currStreakLabel=94baac" alt="GitHub Streak" />
+  <!-- Clean Pink Streak Tracker -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vivi-dot-exe&theme=synthwave&background=1e222a&border=ff69b4&stroke=ff69b4&ring=ff1493&fire=ff1493&currStreakLabel=ff69b4" alt="GitHub Streak" />
 </div>
 
 
