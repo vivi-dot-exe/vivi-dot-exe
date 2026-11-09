@@ -13,21 +13,19 @@
 
 </div>
 
----
 
-## About Me
-
-```javascript
-const vivi = {
-    role: "AI/ML Engineer",
-    location: "Mumbai, India",
-    education: "B.Tech in Computer Engineering",
-    interests: ["Machine Learning", "Agentic Workflows", "Data Engineering"],
-    status: "probably doing a shopping spree when not coding"
-};
-```
-
----
+<div align="center">
+  <table style="border: 1.5px solid #FFD1DC; border-radius: 12px; background-color: #1E1B24; width: 85%; padding: 16px; font-family: monospace;">
+    <tr>
+      <td style="color: #F8F9FA; padding: 8px;">
+        <p style="margin: 6px 0;"><b>Role:</b> AI/ML Engineer</p>
+        <p style="margin: 6px 0;"><b>Location:</b> Mumbai, India</p>
+        <p style="margin: 6px 0;"><b>Education:</b> B.E. in Computer Engineering (AI & ML)</p>
+        <p style="margin: 6px 0;"><b>Interests:</b> Machine Learning • Agentic Workflows • Data Engineering</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Tech Stack
 
